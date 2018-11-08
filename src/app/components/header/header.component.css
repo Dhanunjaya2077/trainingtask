@@ -1,0 +1,33 @@
+
+.topHeader{
+  background-color:black;
+  color:white;
+}
+h1{
+  color:white;
+  cursor: pointer;
+}
+.topHeader .hclstyle{
+  color:red;
+  border-radius:45%;
+  border:1px solid white;
+  font-style: italic;
+}
+li{
+  margin:2px;
+}
+.welcome_note{
+  color:red;
+  font-size:20px;
+  font-style: initial;
+}
+.welcome_child_data li a{
+  color:black;
+  padding:0px;
+  margin:0px;
+}
+.navbar-right{
+  margin-top:20px;
+  font-size: 20px;
+  cursor: pointer;
+}

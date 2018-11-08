@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('https://images.wallpaperscraft.com/image/clouds_cloudy_sky_gloomy_gray_bushes_summer_greens_55744_1280x720.jpg');
+    background-image: linear-gradient(red, yellow, green);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
